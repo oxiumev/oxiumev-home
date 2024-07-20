@@ -1,15 +1,15 @@
 ---
 #preview
-title: Interior design studio
+title: Charging Management System
 image: /img/covers/1.jpg
-category: Architecture
-category_slug: architecture
+category: Software
+category_slug: software
 date: may 24 2023
 
 #full details
 intro:
-  subtitle: "Modern concept"
-  title: "Interior Design <br/><span class=\"mil-accent\">Studio</span>"
+  
+  title: "Charging Management  <br/><span class=\"mil-accent\">System</span>"
   bgImage: "/img/covers/8.jpg"
 
 description:
@@ -17,16 +17,9 @@ description:
       title: Construction and <span class="mil-marker">interior</span> design
       subtitle: Overview
     content: "
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Our Charging Management System (CMS) provides Charge Point Operators (CPOs) with the tools needed to efficiently monitor, control, and optimize their EV charging operations. Designed for ease of use, our CMS offers real-time insights, detailed analytics, and robust control features, ensuring smooth and effective management of your charging infrastructure.</p>
     "
-    avatar:
-      image: /img/faces/1.jpg
-      name: Joe French
-      role: Project Agent
-      text: "
-        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-        <p>Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-      "
+   
 
 details:
   title: Info Project
@@ -53,17 +46,5 @@ gallery:
   - image: /img/covers/4.jpg
     alt: image
 
-resume:
-  title: Resume
-  content: "
-     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-  "
-  signature:
-    name: Jane Meldrum
-    role: CEO of Ruizarch
-    text: J.meldrum
-  quote:
-    text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat
-    author: Thomas Osha, Senior Vice President.
+
 ---

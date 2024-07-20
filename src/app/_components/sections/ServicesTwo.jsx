@@ -1,4 +1,4 @@
-import Data from "@data/sections/services-2.json";
+import Data from "@data/sections/projects-2.json";
 import Link from "next/link";
 
 const ServicesTwoSection = () => {

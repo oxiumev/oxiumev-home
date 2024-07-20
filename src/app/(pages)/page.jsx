@@ -24,7 +24,7 @@ const Home2 = () => {
     <>
       <HeroOneSlider />
       <PartnersSlider bgStyle={"accent"} />
-      <AboutTwoSection />
+      {/*<AboutTwoSection />*/}
       <ProcessSlider bgStyle={"soft"} />
       <CountersSection />
       <ContactSection />

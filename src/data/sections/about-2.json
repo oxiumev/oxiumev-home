@@ -10,7 +10,7 @@
         "url": "/img/photo/2.jpg",
         "alt": "image"
     },
-    "avatar": {
+   "avatar": {
         "image": "/img/faces/1.jpg",
         "name": "Joe French",
         "subname": "Project Agent"

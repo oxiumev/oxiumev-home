@@ -41,21 +41,20 @@ const Contact = () => {
 
                             <div className="mil-sidebar-info">
 
-                                {/* <h6 className="mil-upper mil-up mil-mb-30">Headquarters</h6>
-                                <ul className="mil-list mil-dark mil-up mil-mb-30">
-                                    <li>USA</li>
-                                    <li>New York - 1800 Wazee Street</li>
-                                    <li>Suite 300 NY, NY 80202</li>
+                                 
+                                {/*<ul className="mil-list mil-dark mil-up mil-mb-30">
+                                    <li>Bangalore, Karnataka IN</li>
+                                    
                                 </ul> */}
                                 <h6 className="mil-upper mil-up mil-mb-30">Phone</h6>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30">
-                                    <li>+7 (200) 600-30-30</li>
-                                    <li>+7 (200) 200 - 80 - 02</li>
+                                    <li>+91 9447471701</li>
+                                    <li>+9109207988044</li>
                                 </ul>
                                 <h6 className="mil-upper mil-up mil-mb-30">Email</h6>
                                 <ul className="mil-list mil-dark mil-up">
-                                    <li>info@ruizarch.com</li>
-                                    <li>hello@ruizarch.com</li>
+                                    <li>syamraju@oxiumev.com</li>
+                                    <li>cto@oxiumev.com</li>
                                 </ul>
                                 
                             </div>

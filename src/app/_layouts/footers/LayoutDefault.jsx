@@ -38,15 +38,15 @@ const DefaultFooter = () => {
                         <div className="col-md-6 col-lg-6 col-xl-6 ">
                             <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">E-mail</span>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30" >
-                                    <li className="footer-address-text">+7 (200) 600-30-30</li>
-                                    <li className="footer-address-text">+7 (200) 200 - 80 - 02</li>
+                                    <li className="footer-address-text">+91 9447471701</li>
+                                    <li className="footer-address-text">+91 9207988044</li>
                                 </ul>
                                                       </div>
                         <div className="col-md-6 col-lg-6 col-xl-4">
                             <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Phone</span>
                             <ul className="mil-list mil-dark mil-up">
-                                    <li className="footer-address-text">info@ruizarch.com</li>
-                                    <li className="footer-address-text">hello@ruizarch.com</li>
+                                    <li className="footer-address-text">syamraju@oxiumev.com</li>
+                                    <li className="footer-address-text">cto@oxiumev.com</li>
                                 </ul>                         </div>
                         {/* <div className="col-md-6 col-lg-6 col-xl-3">
                             <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Harriman</span>
@@ -74,10 +74,10 @@ const DefaultFooter = () => {
                     <li key={`footer-social-item-${key}`}><a href={item.link} target="_blank">{item.title}</a></li>
                     ))}
                 </ul>
-                <ul className="mil-light-soft mil-mb-15">
+                {/*<ul className="mil-light-soft mil-mb-15">
                     <li><a href="#.">Our App</a></li>
                     <li><a href="#.">Sitemap</a></li>
-                </ul>
+                </ul>*/}
             </div>
 
         </div>

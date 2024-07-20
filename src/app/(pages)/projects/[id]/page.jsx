@@ -134,7 +134,7 @@ async function ProjectDetail ( { params } ) {
       </div>
 
       {/* resume */}
-      <section>
+      {/*<section>
           <div className="container mil-p-120-90">
               <div className="row justify-content-between">
                   <div className="col-lg-6">
@@ -176,7 +176,7 @@ async function ProjectDetail ( { params } ) {
                   </div>
               </div>
           </div>
-      </section>
+      </section>*/}
       {/* resume end */}
 
       <div className="container">

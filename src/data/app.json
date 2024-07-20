@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Ruizarch",
+        "siteName": "OXIUM",
         "siteDescription": "Architecture React Next.JS Template",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
@@ -20,11 +20,7 @@
                 "link": "/",
                 "children":0
             },
-            {
-                "label": "Services",
-                "link": "/services",
-                "children":0
-            },
+            
             {
                 "label": "Projects",
                 "link": "/projects",
@@ -50,24 +46,19 @@
             "image": "/img/logo/logo-light.png",
             "alt": "Logo"
         },
-        "copy": "© 2023 Ruizarch. All rights reserved.",
+        "copy": "© 2024 Oxium. All rights reserved.",
         "menu": [
             {
                 "label": "About",
                 "link": "/about"
             },
-            {
-                "label": "Services",
-                "link": "/services"
-            },
+            
             {
                 "label": "Projects",
                 "link": "/projects"
             },
-            {
-                "label": "Blog",
-                "link": "/blog"
-            },
+            
+           
             {
                 "label": "Contact",
                 "link": "/contact"
@@ -76,17 +67,14 @@
     },
     "social": [
         {
-            "link": "https://facebook.com",
-            "title": "Facebook"
+            "link": "https://www.linkedin.com/company/oxium-energy/",
+            "title": "LinkedIn"
         },
         {
             "link": "https://twitter.com",
             "title": "Twitter"
         },
-        {
-            "link": "https://instagram.com",
-            "title": "Instagram"
-        },
+       
         {
             "link": "https://youtube.com",
             "title": "Youtube"
@@ -95,16 +83,20 @@
     "projects": {
         "categories": [
             {
-                "name": "Architecture",
-                "slug": "architecture"
+                "name": "Software",
+                "slug": "software"
             },
             {
-                "name": "Interior",
-                "slug": "interior"
+                "name": "Analytics",
+                "slug": "analytics"
             },
             {
-                "name": "Decor",
-                "slug": "decor"
+                "name": "Protocol",
+                "slug": "protocol"
+            },
+            {
+                "name": "Hardware",
+                "slug": "hardware"
             }
         ]
     },
@@ -114,14 +106,7 @@
                 "name": "Executive",
                 "slug": "executive"
             },
-            {
-                "name": "Data centers",
-                "slug": "data-centers"
-            },
-            {
-                "name": "Education",
-                "slug": "education"
-            },
+            
             {
                 "name": "Workplace",
                 "slug": "workplace"
