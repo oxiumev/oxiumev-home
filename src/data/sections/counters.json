@@ -1,26 +1,26 @@
 {
     "bg_image": "/img/photo/6.jpg",
-    "title": "Design with <span class=\"mil-accent\">community</span> in mind",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida.",
+    "title": "Data-Driven Decision Making",
+    "description": " Harness the power of our ML-based data insights, drawing from a vast dataset across all states in India and 1100 RTO locations, to drive intelligent and effective decisions.",
     "button": {
-        "link": "/about",
+        "link": "/projects/project-3",
         "label": "Learn More"
     },
     "items": [
         {
             "label": "Locations",
-            "value": "600",
+            "value": "1100",
             "valueAfter": ""
         },
         {
-            "label": "Continents",
+            "label": "States",
+            "value": "28",
+            "valueAfter": ""
+        },
+        {
+            "label": "Data Source",
             "value": "6",
-            "valueAfter": ""
-        },
-        {
-            "label": "Workers",
-            "value": "22",
-            "valueAfter": "k"
+            "valueAfter": "+"
         }
     ]
 }

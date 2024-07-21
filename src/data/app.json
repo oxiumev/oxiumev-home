@@ -11,7 +11,7 @@
     },
     "header": {
         "logo": {
-            "image": "/img/logo/logo-light.png",
+            "image": "/img/logo/logo-light1.png",
             "alt": "Logo"
         },
         "menu": [
@@ -43,7 +43,7 @@
     },
     "footer": {
         "logo": {
-            "image": "/img/logo/logo-light.png",
+            "image": "/img/logo/logo-light1.png",
             "alt": "Logo"
         },
         "copy": "© 2024 Oxium. All rights reserved.",

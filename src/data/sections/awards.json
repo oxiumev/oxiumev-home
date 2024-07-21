@@ -1,34 +1,31 @@
 {
-    "title": "Architecture Awards",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum gravida.",
+    "title": "Future Projects",
+    "description": "Discover our upcoming innovations, including AI-powered educational tools, advanced community management platforms, and user-centric e-commerce solutions, all designed to enhance user experience and streamline operations across various industries.",
     "button": {
-        "link": "/blog",
+        "link": "/projects",
         "label": "See All"
     },
     "image": {
-        "url": "/img/photo/2.jpg",
+        "url": "/img/covers/9.jpg",
         "alt": "image"
     },
     "items": [
         {
-            "title": "Designs of the Year",
-            "year": "2022",
-            "image": "/img/photo/1.jpg"
+            "title": "Interoperable Hub System",
+            
+            "image": "/img/covers/11.jpg"
         },
         {
-            "title": "Firms of the Year",
-            "year": "2019",
-            "image": "/img/photo/2.jpg"
+            "title": "Protocol Management Tool",
+            "image": "/img/covers/12.jpg"
         },
         {
-            "title": "Product Winners",
-            "year": "2014",
-            "image": "/img/photo/5.jpg"
+            "title": "Control System Design",
+            "image": "/img/covers/13.jpg"
         },
         {
-            "title": "Photography Winners",
-            "year": "2008",
-            "image": "/img/photo/4.jpg"
+            "title": "EV Fleet Management",
+            "image": "/img/covers/9.jpg"
         }
     ]
 }

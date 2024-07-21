@@ -23,12 +23,12 @@ const Home2 = () => {
   return (
     <>
       <HeroOneSlider />
-      <PartnersSlider bgStyle={"accent"} />
-      {/*<AboutTwoSection />*/}
+      {<PartnersSlider bgStyle={"accent"} />}
+      {<AboutTwoSection />}
       <ProcessSlider bgStyle={"soft"} />
-      {/*<CountersSection />*/}
+      {<CountersSection />}
       <ContactSection />
-      {/*<AwardsSection />*/}
+      {<AwardsSection />}
     </>
   );
 };

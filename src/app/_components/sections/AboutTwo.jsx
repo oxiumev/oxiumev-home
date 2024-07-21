@@ -44,13 +44,13 @@ const AboutTwoSection = () => {
                                 <div className="mil-image-frame">
                                     <img src={Data.image.url} alt={Data.image.alt} className="mil-scale" data-value-1="1" data-value-2="1.3" />
                                 </div>
-                                <div className="mil-about-counter mil-center">
+                                {/*<div className="mil-about-counter mil-center">
                                     <div className="mil-avatar mil-mb-30">
                                         <img src={Data.avatar.image} alt={Data.image.name} />
                                     </div>
                                     <h5 className="mil-upper mil-mb-10">{Data.avatar.name}</h5>
                                     <p className="mil-text-sm mil-dark-soft">{Data.avatar.subname}</p>
-                                </div>
+                                </div>*/}
                             </div>
 
                         </div>
