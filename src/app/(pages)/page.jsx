@@ -14,7 +14,7 @@ const ProcessSlider = dynamic( () => import("@components/sliders/Process"), { ss
 
 export const metadata = {
   title: {
-		default: "Home 2",
+		default: "Home ",
 	},
   description: AppData.settings.siteDescription,
 }
