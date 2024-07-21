@@ -28,8 +28,8 @@ const Contact = () => {
                     <div className="col-lg-6">
 
                         <div className="mil-mb-90">
-                            <h2 className="mil-upper mil-up mil-mb-30">Info Contact</h2>
-                            <p className="mil-up mil-mb-40">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters.</p>
+                            <h2 className="mil-upper mil-up mil-mb-30">Get in touch</h2>
+                            <p className="mil-up mil-mb-40">Let’s collaborate to promote sustainable transportation together! Connect with Oxium Energy and explore our software solutions for EV and charging infrastructure.</p>
                         </div>
 
                     </div>

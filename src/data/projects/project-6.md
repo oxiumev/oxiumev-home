@@ -1,70 +1,47 @@
 ---
 #preview
-title: Tony's Chocolonely
-image: /img/covers/6.jpg
-category: Interior
-category_slug: interior
+title: Control System Design(Coming Soon)
+image: /img/covers/13.jpg
+category: Hardware
+category_slug: hardware
 date: may 24 2023
-orientation: vertical
 
 #full details
 intro:
-  subtitle: "Modern concept"
-  title: Tony's Chocolonely <br/><span class=\"mil-accent\">Factory</span>"
-  bgImage: "/img/covers/6.jpg"
+  
+  title: "<span class=\"mil-accent\">Control System </span><br/>Design(Coming soon)"
+  bgImage: "/img/covers/13.jpg"
 
 description:
     heading:
-      title: Construction and <span class="mil-marker">interior</span> design
+      title: "<span class=\"mil-accent\">Control System </span><br/>Design"
       subtitle: Overview
     content: "
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Our Control System Design service focuses on the manufacturing of advanced control units for EV charging stations. We provide bespoke solutions tailored to your specific requirements, ensuring precise and efficient operation of your charging infrastructure. From design to production, our control units enhance the reliability and performance of your EV charging stations.</p>
     "
-    avatar:
-      image: /img/faces/1.jpg
-      name: Joe French
-      role: Project Agent
-      text: "
-        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-        <p>Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-      "
+   
 
 details:
-  title: Info Project
+  title: Features
   items:
-    - label: Location
-      value: Los Angeles, California
+    - label: 
+      value: Custom design and manufacturing of control units
+    - label: 
+      value: Tailored solutions for optimal EV charging station performance
+    - label: 
+      value: Rigorous quality control to ensure durability and efficiency
 
-    - label: Square Feet
-      value: Based Upon Qualifications
-
-    - label: Completion Date
-      value: May 6, 2025
-
-    - label: Project Component
-      value: Architectural Services
-
+    - label: 
+      value: Expertise in integrating with various charging systems and protocols
 gallery:
-  - image: /img/covers/3.jpg
+  - image: /img/covers/13.jpg
     alt: image
 
-  - image: /img/covers/1.jpg
+  - image: /img/covers/12.jpg
     alt: image
 
-  - image: /img/covers/2.jpg
+  - image: /img/covers/11.jpg
     alt: image
 
-resume:
-  title: Resume
-  content: "
-     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-  "
-  signature:
-    name: Jane Meldrum
-    role: CEO of Ruizarch
-    text: J.meldrum
-  quote:
-    text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat
-    author: Thomas Osha, Senior Vice President.
+
 ---

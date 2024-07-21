@@ -1,33 +1,37 @@
 ---
 #preview details
-image: "/img/faces/1.jpg"
-name: "Charlie Williams"
-role: "Project Manager"
+image: "/img/faces/2.jpg"
+name: "Syam Raju"
+role: "CEO"
 category_slug: "executive"
 
 #full details
-fullImage: "/img/faces/team-member/1.jpg"
+fullImage: "/img/faces/team-member/2.jpg"
 description: "
-    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
+    <p>Its all about believing and admitting as an entrepreneur to make your world a better place to live </p>
+<p>Hi all , I m an EV Charging Infrastructure expert with a vision to revolutionise the industry through innovative and strategic technology ideas and initiations. Here my team has honed the expertise in developing, managing, and optimizing EV charging systems to meet the dynamic needs of today's world.</p>
+
+<p>At the heart of my career is a passion for sustainability and technology. I lead a talented team at Oxium Energy, where we are committed to pioneering solutions that address real-world challenges in the EV industry. Our work focuses on creating innovative, efficient, and user-friendly charging solutions that not only support the growth of electric vehicles but also contribute to a greener planet.</p>
+
+<p>I am always eager to connect with fellow professionals, innovators, and enthusiasts in the EV space who are passionate about leveraging technology for a sustainable future. Let’s drive the change together!</p>
   "
 
 info:
-   - "Location: Dallas, Texas, USA"
-   - "Experience: 2 Years in the planning industry"
-   - "Phone: + 1 300 3060 30 30"
+   - "Location: Bangalore, Karnataka IN"
+   - "Phone: + 91 9447471701"
 
 social:
   - link: "https://facebook.com/"
-    label: Facebook
+    label: LinkedIn
 
-  - link: "https://twitter.com/"
-    label: Twitter
+  - link: ""
+    label: 
 
-  - link: "https://instagram.com/"
-    label: Instagram
+  - link: ""
+    label: 
 
-  - link: "https://youtube.com/"
-    label: Youtube
+  - link: ""
+    label: 
 
-signature: "C.Williams"
+signature: "syam raju"
 ---

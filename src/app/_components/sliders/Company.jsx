@@ -52,12 +52,12 @@ const CompanySlider = () => {
                                 </SwiperSlide>
                                 ))}
                         </Swiper>
-                        <div className="mil-illustration-slider-nav mil-up">
+                        {/*<div className="mil-illustration-slider-nav mil-up">
                             <div className="mil-nav-buttons">
                                 <div className="mil-slider-button mil-illustration-prev">Prev</div>
                                 <div className="mil-slider-button mil-illustration-next">Next</div>
                             </div>
-                        </div>
+                        </div>*/}
                     </div>
                 </div>
 

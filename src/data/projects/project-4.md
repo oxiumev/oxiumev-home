@@ -1,70 +1,46 @@
 ---
 #preview
-title: Cascade of Lava
-image: /img/covers/4.jpg
-category: Decor
-category_slug: decor
+title: Hub System for Interoperability (Coming soon)
+image: /img/covers/11.jpg
+category: Protocol
+category_slug: protocol
 date: may 24 2023
-orientation: vertical
 
 #full details
 intro:
-  subtitle: "Modern concept"
-  title: "Cascade of Lava <br/><span class=\"mil-accent\">Decor</span>"
-  bgImage: "/img/covers/4.jpg"
+  
+  title: "<span class=\"mil-accent\">Hub System</span><br/> for Interoperability <br/>(Coming soon)"
+  bgImage: "/img/covers/11.jpg"
 
 description:
     heading:
-      title: Construction and <span class="mil-marker">interior</span> design
+      title:  "<span class=\"mil-accent\">Hub System</span><br/> for Interoperability"
       subtitle: Overview
     content: "
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Our Hub System for Interoperability ensures seamless integration and communication between various electric vehicle charging networks and platforms using the OCPI (Open Charge Point Interface) protocol. Designed to promote compatibility and enhance user experience, this system enables efficient data exchange and unified operations across different EV infrastructures. Simplify your EV ecosystem management with our robust interoperability solution.</p>
     "
-    avatar:
-      image: /img/faces/1.jpg
-      name: Joe French
-      role: Project Agent
-      text: "
-        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-        <p>Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-      "
+   
 
 details:
-  title: Info Project
+  title: Features
   items:
-    - label: Location
-      value: Los Angeles, California
-
-    - label: Square Feet
-      value: Based Upon Qualifications
-
-    - label: Completion Date
-      value: May 6, 2025
-
-    - label: Project Component
-      value: Architectural Services
-
+    - label: 
+      value: Seamless integration using the OCPI protocol
+    - label: 
+      value: Efficient data exchange across diverse EV charging networks
+    - label: 
+      value: Unified operations for streamlined management
+    - label: 
+      value: Scalable solution to adapt to growing infrastructure needs
 gallery:
-  - image: /img/covers/5.jpg
+  - image: /img/covers/11.jpg
     alt: image
 
-  - image: /img/covers/1.jpg
+  - image: /img/covers/10.jpg
     alt: image
 
-  - image: /img/covers/2.jpg
+  - image: /img/covers/9.jpg
     alt: image
 
-resume:
-  title: Resume
-  content: "
-     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-  "
-  signature:
-    name: Jane Meldrum
-    role: CEO of Ruizarch
-    text: J.meldrum
-  quote:
-    text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat
-    author: Thomas Osha, Senior Vice President.
+
 ---

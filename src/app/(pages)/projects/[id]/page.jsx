@@ -127,7 +127,7 @@ async function ProjectDetail ( { params } ) {
         <FullImageSlider items={postData.gallery} />
       </Suspense>
       
-      <BenefitsSection />
+      {/*<BenefitsSection />*/}
 
       <div className="container">
           <div className="mil-divider-lg" />

@@ -29,7 +29,7 @@ async function Projects() {
           <div className="mil-background-grid mil-softened" />
           
           <div className="mil-center">
-            <p className="mil-text-lg mil-up mil-mb-90">Our Projects harness design and technology to create places where <br/> people live, work, and heal.</p>
+            <p className="mil-text-lg mil-up mil-mb-90">“Our projects highlight our dedication to advancing EV infrastructure with innovative and practical solutions. <br/> Each initiative demonstrates our ability to address unique challenges and drive meaningful progress in the electric vehicle industry.”</p>
           </div>
 
           <Suspense fallback={<div>Loading...</div>}>

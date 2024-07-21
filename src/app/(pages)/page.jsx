@@ -26,9 +26,9 @@ const Home2 = () => {
       <PartnersSlider bgStyle={"accent"} />
       {/*<AboutTwoSection />*/}
       <ProcessSlider bgStyle={"soft"} />
-      <CountersSection />
+      {/*<CountersSection />*/}
       <ContactSection />
-      <AwardsSection />
+      {/*<AwardsSection />*/}
     </>
   );
 };

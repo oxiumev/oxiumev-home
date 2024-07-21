@@ -1,7 +1,7 @@
 ---
 #preview
 title: Charging Management System
-image: /img/covers/1.jpg
+image: /img/covers/8.jpg
 category: Software
 category_slug: software
 date: may 24 2023
@@ -14,36 +14,35 @@ intro:
 
 description:
     heading:
-      title: Construction and <span class="mil-marker">interior</span> design
+      title: Charging Management<br/><span class="mil-marker">System</span>
       subtitle: Overview
     content: "
-      <p>Our Charging Management System (CMS) provides Charge Point Operators (CPOs) with the tools needed to efficiently monitor, control, and optimize their EV charging operations. Designed for ease of use, our CMS offers real-time insights, detailed analytics, and robust control features, ensuring smooth and effective management of your charging infrastructure.</p>
+      <p>Our Charging Management System (CMS) provides Charge Point Operators (CPOs) with the tools needed to efficiently monitor, control, and optimize your EV charging operations. Designed for ease of use, our CMS offers real-time insights, detailed analytics, and robust control features, ensuring smooth and effective management of your charging infrastructure.</p>
     "
    
 
 details:
-  title: Info Project
+  title: Features
   items:
-    - label: Location
-      value: Los Angeles, California
+    - label: 
+      value: Real-time monitoring of charging stations
+    - label: 
+      value: Detailed analytics for performance optimization
 
-    - label: Square Feet
-      value: Based Upon Qualifications
+    - label: 
+      value: Remote control and management of charging operations
 
-    - label: Completion Date
-      value: May 6, 2025
-
-    - label: Project Component
-      value: Architectural Services
+    - label: 
+      value: Comprehensive reporting tools for data-driven decisions
 
 gallery:
-  - image: /img/covers/1.jpg
+  - image: /img/covers/8.jpg
     alt: image
 
-  - image: /img/covers/2.jpg
+  - image: /img/covers/9.jpg
     alt: image
 
-  - image: /img/covers/4.jpg
+  - image: /img/covers/10.jpg
     alt: image
 
 

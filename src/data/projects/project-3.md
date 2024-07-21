@@ -1,69 +1,48 @@
 ---
 #preview
-title: Kemia Industrial Factory
-image: /img/covers/3.jpg
-category: Architecture
-category_slug: architecture
+title: Lead Validation and ROI Calculation tool
+image: /img/covers/10.jpg
+category: Analytics
+category_slug: analytics
 date: may 24 2023
 
 #full details
 intro:
-  subtitle: "Modern concept"
-  title: "Industrial Factory <br/><span class=\"mil-accent\">Reconstruction</span>"
-  bgImage: "/img/covers/3.jpg"
+  
+  title: "Lead Validation and<br/><span class=\"mil-accent\">ROI Calculation</span><br/> tool"
+  bgImage: "/img/covers/10.jpg"
 
 description:
     heading:
-      title: Construction and <span class="mil-marker">interior</span> design
+      title: Charging Management<br/><span class="mil-marker">System</span>
       subtitle: Overview
     content: "
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Enhance your business decision-making in the electric vehicle industry with our Lead Validation and ROI Calculation tool. This advanced analytics software is specifically designed to verify the validity of EV-related leads and calculate the estimated return on investment (ROI) for each lead. With accurate insights and data-driven predictions, you can focus on high-potential leads and maximize your marketing efficiency in the EV market.</p>
     "
-    avatar:
-      image: /img/faces/1.jpg
-      name: Joe French
-      role: Project Agent
-      text: "
-        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-        <p>Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-      "
+   
 
 details:
-  title: Info Project
+  title: Features
   items:
-    - label: Location
-      value: Los Angeles, California
+    - label: 
+      value: Lead validation to ensure high-quality EV-related leads
+    - label: 
+      value: ROI calculation for accurate investment assessment
+    - label: 
+      value: Advanced analytics tailored for the electric vehicle sector
 
-    - label: Square Feet
-      value: Based Upon Qualifications
-
-    - label: Completion Date
-      value: May 6, 2025
-
-    - label: Project Component
-      value: Architectural Services
+    - label: 
+      value: User-friendly interface for easy navigation
 
 gallery:
-  - image: /img/covers/4.jpg
+  - image: /img/covers/10.jpg
     alt: image
 
-  - image: /img/covers/1.jpg
+  - image: /img/covers/8.jpg
     alt: image
 
-  - image: /img/covers/2.jpg
+  - image: /img/covers/9.jpg
     alt: image
 
-resume:
-  title: Resume
-  content: "
-     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-  "
-  signature:
-    name: Jane Meldrum
-    role: CEO of Ruizarch
-    text: J.meldrum
-  quote:
-    text: Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat
-    author: Thomas Osha, Senior Vice President.
+
 ---

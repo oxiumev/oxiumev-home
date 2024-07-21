@@ -1,35 +1,35 @@
 {
     "title": "What We Do",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Explore Our Projects",
     "items": [
         {
             "title": "Charging Management System",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ultrices gravida.",
+            "text": "Efficiently monitor, control, and optimize your EV charging operations.",
             "link": "/projects/project-1"
         },
         {
             "title": "EV Fleet Management",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ultrices gravida.",
+            "text": "Optimize your electric vehicle fleet with our comprehensive EV Fleet Management solution.",
             "link": "/projects/project-2"
         },
         {
             "title": "Lead Validation and ROI Calculation tool",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ultrices gravida.",
+            "text": "Optimize your electric vehicle fleet with our comprehensive EV Fleet Management solution.",
             "link": "/projects/project-3"
         },
         {
-            "title": "Hub System for Interoperability",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ultrices gravida.",
+            "title": "Hub System for Interoperability (Coming Soon)",
+            "text": "Ensuring seamless integration and communication between various electric vehicle charging networks and platforms using the OCPI (Open Charge Point Interface) protocol.",
             "link": "/projects/project-4"
         },
         {
-            "title": "Custom Protocol Management tool",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ultrices gravida.",
+            "title": "Custom Protocol Management tool (Coming Soon)",
+            "text": "Management Tool allowing you to tailor OCPI (Open Charge Point Interface) and OCPP (Open Charge Point Protocol) protocols to meet the specific needs of your EV chargers.",
             "link": "/projects/project-5"
         },
         {
-            "title": "Control System Design",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ultrices gravida.",
+            "title": "Control System Design (Coming Soon)",
+            "text": "Service focusing on the manufacturing of advanced control units for EV charging stations.",
             "link": "/projects/project-6"
         }
     ]

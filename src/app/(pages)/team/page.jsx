@@ -30,7 +30,7 @@ async function Team() {
             <div className="mil-background-grid mil-softened" />
 
             <div className="mil-center">
-                <p className="mil-text-lg mil-up mil-mb-90">It is a long established fact that a reader will be distracted <br/>by the readable content.</p>
+                <p className="mil-text-lg mil-up mil-mb-90">Meet our team</p>
             </div>
 
             <Suspense fallback={<div>Loading...</div>}>

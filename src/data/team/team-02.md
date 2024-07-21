@@ -1,33 +1,32 @@
 ---
 #preview details
-image: "/img/faces/2.jpg"
-name: "Peter Stanbridge"
-role: "Designer"
-category_slug: "data-centers"
+image: "/img/faces/1.jpg"
+name: "Aneesh R"
+role: "CTO"
+category_slug: "executive"
 
 #full details
 fullImage: "/img/faces/team-member/1.jpg"
 description: "
-    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
+    <p>“My career is fueled by a strong commitment to sustainability and technological progress. At Oxium Energy, I lead a skilled team dedicated to developing innovative solutions that address pressing challenges in the EV sector. We strive to create cutting-edge, efficient, and user-friendly charging solutions that not only support the advancement of electric vehicles but also promote a more eco-friendly and sustainable world.”</p>
   "
 
 info:
-   - "Location: Dallas, Texas, USA"
-   - "Experience: 2 Years in the planning industry"
-   - "Phone: + 1 300 3060 30 30"
+   - "Location: Bangalore, Karnataka IN"
+   - "Phone: + 91 9207988044"
 
 social:
-  - link: "https://facebook.com/"
-    label: Facebook
+  - link: "https://www.linkedin.com/in/aneeshr-556/"
+    label: LinkedIn
 
-  - link: "https://twitter.com/"
-    label: Twitter
+  - link: ""
+    label: 
 
-  - link: "https://instagram.com/"
-    label: Instagram
+  - link: ""
+    label: 
 
-  - link: "https://youtube.com/"
-    label: Youtube
+  - link: ""
+    label: 
 
-signature: "P.Stanbridge"
+signature: "Aneesh.R"
 ---

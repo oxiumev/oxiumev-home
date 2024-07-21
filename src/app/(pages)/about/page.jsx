@@ -28,12 +28,12 @@ const About = () => {
       <PageBanner pageTitle={"About us"} breadTitle={"About"} bgImage={"/img/photo/12.jpg"} />
       <ServicesTwoSection />
       <ContactInfoSection />
-      <CompanyTwoSlider />
+      {/*<CompanyTwoSlider />*/}
       <ProcessSlider paddingTop={"0"} />
       <CompanySlider />
       <PartnersSlider bgStyle={"soft"} />
-      <AwardsSection />
-      <TestimonialSlider showPartners={0} />
+      {/*<AwardsSection />*/}
+      {/*<TestimonialSlider showPartners={0} />*/}
       <CallToActionTwoSection />
     </>
   );
