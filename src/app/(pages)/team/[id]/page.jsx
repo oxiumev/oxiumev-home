@@ -34,7 +34,7 @@ async function TeamDetail( { params } ) {
                         <h3 className="mil-upper mil-up mil-mb-30">{postData.name}</h3>
 
                         <ul className="mil-list mil-dark mil-up mil-mb-30">
-                            {postData.info.map((item, key) => (
+                            {postData.info?.map((item, key) => (
                             <li key={`team-membre-info-item-${key}`}>{item}</li>
                             ))}
                         </ul>

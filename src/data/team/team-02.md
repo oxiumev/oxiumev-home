@@ -1,22 +1,19 @@
 ---
 #preview details
-image: "/img/faces/1.jpg"
-name: "Aneesh R"
-role: "CTO"
-category_slug: "executive"
+image: "/img/faces/team-member/KrishnaVijayChand.jpg"
+name: "Krishna Vijay Chand"
+role: "Strategic Advisor"
+category_slug: "advisor"
 
 #full details
-fullImage: "/img/faces/team-member/1.jpg"
+fullImage: "/img/faces/team-member/KrishnaVijayChand.jpg"
 description: "
-    <p>“My career is fueled by a strong commitment to sustainability and technological progress. At Oxium Energy, I lead a skilled team dedicated to developing innovative solutions that address pressing challenges in the EV sector. We strive to create cutting-edge, efficient, and user-friendly charging solutions that not only support the advancement of electric vehicles but also promote a more eco-friendly and sustainable world.”</p>
+    <p>“Global Strategy and Marketing leader, with proven success in building and transforming Strategy and Marketing functions and driving CHANGE AND GROWTH agenda. Rich Global Experience of over 18+ years in TECHNOLOGY INDUSTRY straddling across technology start-ups, mid-sized IT firms, large MNCs and Indian IT giants, namely, Capgemini, CES, Zensar Technologies, Value Momentum and Tata BSS & Cyient”</p>
   "
 
-info:
-   - "Location: Bangalore, Karnataka IN"
-   - "Phone: + 91 9207988044"
 
 social:
-  - link: "https://www.linkedin.com/in/aneeshr-556/"
+  - link: "https://www.linkedin.com/in/krishna-vijay-chand-817384a/"
     label: LinkedIn
 
   - link: ""
@@ -28,5 +25,5 @@ social:
   - link: ""
     label: 
 
-signature: "Aneesh.R"
+signature: "Krishna Vijay Chand"
 ---
